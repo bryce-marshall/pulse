@@ -2,6 +2,10 @@
   "name": "@brycemarshall/pulse",
   "version": "3.0.0",
   "description": "A function that starts an asynchronous pulse sequence which invokes a handler function at the specified interval until either the specified duration has elapsed, or the sequence is cancelled. This is the ES2017 Build.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryce-marshall/pulse.git"
+  },
   "main": "index",
   "keywords": [
     "pulse",
