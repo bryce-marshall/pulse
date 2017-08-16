@@ -1,0 +1,17 @@
+{
+  "name": "@brycemarshall/pulse",
+  "version": "2.0.0",
+  "description": "A function that starts an asynchronous pulse sequence which invokes a handler function at the specified interval until either the specified duration has elapsed, or the sequence is cancelled. This is the ES2015 Build.",
+  "main": "index",
+  "keywords": [
+    "pulse",
+    "timeout",
+    "time out",
+    "async",
+    "await"
+  ],
+  "author": "Bryce Marshall",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
